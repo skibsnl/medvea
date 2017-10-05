@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages for Skibs.NL
+## Welcome to GitHub Pages for medvea.nl
 
 You can use the [editor on GitHub](https://github.com/skibsnl/v_one/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
