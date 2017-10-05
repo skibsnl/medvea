@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages for Skibs.NL
 
 You can use the [editor on GitHub](https://github.com/skibsnl/v_one/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
